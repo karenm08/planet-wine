@@ -6,18 +6,9 @@
 
 An eccommerce website to order wine!
 
+Live demo : https://planet-wine.netlify.app/
+
 </div>
-
-## Roles:
-
-#### Project Lead: <strong>Karen Mok</strong>
-
--   WireFrame: Karen, Steven, Kalvin
--   HTML: Kalvin, Karen, Wayne
--   CSS: Karen, Steven, Kalvin, Jimmy
--   Javascript: Wayne, Jimmy, Steven
-
--   Github to do list: Everyone
 
 ## Site Description & Purpose
 
